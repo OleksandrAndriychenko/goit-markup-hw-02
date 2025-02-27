@@ -4,9 +4,6 @@ body{
     background-color:#fff;
     color: #434455;
 }
-header{
-    letter-spacing: 0.03em;
-}
 nav{
     background-color: #fff;
 }
@@ -61,6 +58,7 @@ p{
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     text-transform: uppercase;
+    letter-spacing: 0.03em;
 }
 .logo-color{
     color: #2e2f42;
@@ -68,10 +66,17 @@ p{
 .nav-link{
     color: #2e2f42;
     font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 0.02em;
 }
 .nav-address{
+    font-style: normal;
+    letter-spacing: 0.02em;
+}
+.nav-address-link{
     color: #434455;
     font-weight: 400;
+    font-size: 16px;
 }
 .section-1{
     background: #2e2f42;
