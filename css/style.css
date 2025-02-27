@@ -4,6 +4,9 @@ body{
     background-color:#fff;
     color: #434455;
 }
+header{
+    letter-spacing: 0.03em;
+}
 nav{
     background-color: #fff;
 }
@@ -52,13 +55,15 @@ p{
     color: #434455;
 }
 .link-logo-header{
-    line-height: 1.16667;
-    color: #2e2f42;
+    line-height: 1.17;
+    color: #4d5ae5;
     font-weight: 700;
     font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
 }
 .logo-color{
-    color: #4d5ae5;
+    color: #2e2f42;
 }
 .nav-link{
     color: #2e2f42;
@@ -85,4 +90,3 @@ footer{
 footer > p{
     color: #f4f4fd;
 }
-font-weight
