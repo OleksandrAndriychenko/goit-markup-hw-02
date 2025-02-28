@@ -1,8 +1,10 @@
 body{
     font-family:"Roboto", sans-serif;
-    width: 1440;
     background-color:#fff;
     color: #434455;
+}
+ul{
+    list-style-type: none;
 }
 a:hover, a:focus{
     color: #404bbf;
