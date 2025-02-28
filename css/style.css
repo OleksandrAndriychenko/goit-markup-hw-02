@@ -89,17 +89,24 @@ a{
 .section-three{
     background: #f4f4fd;
 }
-footer{
+.footer{
     background: #2e2f42;
 }
 .link-logo-footer{
-    color: #f4f4fd;
+    color: #4d5ae5;
     font-weight: 700;
     font-family: "Raleway", sans-serif;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
-footer > p{
+.footer > p{
     color: #f4f4fd;
 }
 .section-three-img{
     background-color: #FFFFFF;
+}
+.logo-color-footer{
+    color: #f4f4fd;
 }
