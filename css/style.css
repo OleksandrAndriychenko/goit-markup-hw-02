@@ -36,16 +36,19 @@ a{
 }
 .title-two-level{
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     color: #2e2f42;
     font-weight: 700;
     letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
 }
-h3{
+.title-three-level{
     font-size: 20px;
     line-height: 1.2;
     color: #2e2f42;
     font-weight: 500;
+    letter-spacing: 0.02em;
 }
 .p-section{
     font-size: 16px;
@@ -83,7 +86,7 @@ h3{
 .section-one{
     background: #2e2f42;
 }
-.section-3{
+.section-three{
     background: #f4f4fd;
 }
 footer{
@@ -96,4 +99,7 @@ footer{
 }
 footer > p{
     color: #f4f4fd;
+}
+.section-three-img{
+    background-color: #FFFFFF;
 }
