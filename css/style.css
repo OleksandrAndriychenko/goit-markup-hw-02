@@ -34,11 +34,12 @@ a{
     cursor: pointer;
     letter-spacing: 0.04em;
 }
-h2{
+.title-two-level{
     font-size: 36px;
     line-height: 1.11111;
     color: #2e2f42;
     font-weight: 700;
+    letter-spacing: 0.02em;
 }
 h3{
     font-size: 20px;
@@ -46,10 +47,11 @@ h3{
     color: #2e2f42;
     font-weight: 500;
 }
-p{
+.p-section{
     font-size: 16px;
     line-height: 1.5;
     color: #434455;
+    letter-spacing: 0.02em;
 }
 .link-logo-header{
     line-height: 1.17;
