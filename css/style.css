@@ -8,6 +8,7 @@ ul{
 }
 a:hover, a:focus{
     color: #404bbf;
+    text-decoration: none;
 }
 button:hover, button:focus{
     background: #404bbf;
@@ -15,6 +16,7 @@ button:hover, button:focus{
 a{
     font-size: 12px;
     line-height: 1.5;
+    text-decoration: none;
 }
 .section-one-title{
     font-size: 56px;
